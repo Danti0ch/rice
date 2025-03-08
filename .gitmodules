@@ -1,0 +1,12 @@
+[submodule "slstatus"]
+	path = slstatus
+	url = https://github.com/Danti0ch/slstatus
+[submodule "dwm"]
+	path = dwm
+	url = https://github.com/Danti0ch/dwm
+[submodule "st"]
+	path = st
+	url = git@github.com:Danti0ch/st.git
+[submodule "picom"]
+	path = picom
+	url = git@github.com:Danti0ch/picom.git
